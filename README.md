@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Im a student working towards a futere in software development
+Im studying computer science and working towards a future in software development
