@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Im studying computer science and working towards a future in software development
+I'll a fully fledged software engineer January 2026 and working towards a future in software development
